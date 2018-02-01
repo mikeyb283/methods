@@ -60,7 +60,7 @@ public class Methods {
     double area = (length * width);
     System.out.println("The area of the rectangle is " + area + " square inches.");
   }
-//
+  
   private static void parallelCalc(Scanner scanner) {
     double base = ask(scanner, "Enter the base length in inches: ");
     double height = ask(scanner, "Enter the height in inches: ");
